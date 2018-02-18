@@ -2,6 +2,7 @@ import random
 import itertools
 import random
 import sys
+import numpy as np
 from psychopy import visual, core, event
 
 categories = {'Happy':'F', 'Angry':'W', 'Sad':'T'}
@@ -21,7 +22,7 @@ def generateTrials(numTrials):
 	for i in range(numTrials):
 		targetCategory = random.choice(categories.keys())
 		distractorCategories = randomButNot(categories.keys(),targetCategory,2)
-		actorsToShow = random.sample(actors,3)
+		actorsToShow = np.random.choice(actors,3)
 		targetLocation = random.choice(positions.keys())
 		trials.append({
 					'emotionPrompt':targetCategory,
