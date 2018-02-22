@@ -28,7 +28,7 @@ def generateTrials(numTrials):
 					'emotionPrompt':targetCategory,
 					'targetImage':actorsToShow[0]+categories[targetCategory]+suffix,
 					'distractorImage1': actorsToShow[1]+categories[distractorCategories[0]]+suffix,
-					'distractorImage2': actorsToShow[1]+categories[distractorCategories[1]]+suffix,
+					'distractorImage2': actorsToShow[2]+categories[distractorCategories[1]]+suffix,
 					'targetLocation': targetLocation
 					})
 	return trials
