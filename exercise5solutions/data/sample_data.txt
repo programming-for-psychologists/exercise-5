@@ -1,0 +1,16 @@
+sample,vertical,Happy,005w,005w,003m,Sad,Angry,005wF_90_60.jpg,005wT_90_60.jpg,005wW_90_60.jpg,middle,0,Sad,3350.79479218
+sample,horiontal,Happy,002m,001m,004w,Angry,Sad,002mF_90_60.jpg,001mW_90_60.jpg,001mT_90_60.jpg,right,1,Happy,1295.59493065
+sample,horiontal,Happy,001w,005m,005w,Sad,Angry,001wF_90_60.jpg,005mT_90_60.jpg,005mW_90_60.jpg,right,1,Happy,1691.52212143
+sample,vertical,Angry,001w,004w,002w,Happy,Sad,001wW_90_60.jpg,004wF_90_60.jpg,004wT_90_60.jpg,top,1,Angry,1192.94691086
+sample,horiontal,Sad,001m,005w,005m,Angry,Happy,001mT_90_60.jpg,005wW_90_60.jpg,005wF_90_60.jpg,right,1,Sad,1680.20987511
+sample,vertical,Sad,005m,004m,001w,Angry,Happy,005mT_90_60.jpg,004mW_90_60.jpg,004mF_90_60.jpg,top,1,Sad,1166.12195969
+sample,horiontal,Sad,002w,002w,004w,Angry,Happy,002wT_90_60.jpg,002wW_90_60.jpg,002wF_90_60.jpg,left,1,Sad,1483.19292068
+sample,horiontal,Sad,004w,002w,005w,Happy,Angry,004wT_90_60.jpg,002wF_90_60.jpg,002wW_90_60.jpg,middle,1,Sad,1679.29911613
+sample,horiontal,Happy,001m,001m,002m,Sad,Angry,001mF_90_60.jpg,001mT_90_60.jpg,001mW_90_60.jpg,middle,1,Happy,3584.61904526
+sample,horiontal,Sad,003w,005w,003w,Happy,Angry,003wT_90_60.jpg,005wF_90_60.jpg,005wW_90_60.jpg,middle,1,Sad,2046.56910896
+sample,horiontal,Sad,001m,004w,003m,Angry,Happy,001mT_90_60.jpg,004wW_90_60.jpg,004wF_90_60.jpg,left,1,Sad,1342.97800064
+sample,vertical,Angry,002m,003w,003m,Sad,Happy,002mW_90_60.jpg,003wT_90_60.jpg,003wF_90_60.jpg,top,0,Happy,2309.75604057
+sample,horiontal,Sad,004w,001m,001w,Happy,Angry,004wT_90_60.jpg,001mF_90_60.jpg,001mW_90_60.jpg,middle,0,Happy,1074.79500771
+sample,horiontal,Angry,002w,002w,002w,Happy,Sad,002wW_90_60.jpg,002wF_90_60.jpg,002wT_90_60.jpg,left,1,Angry,1676.39183998
+sample,vertical,Sad,002m,005m,005m,Happy,Angry,002mT_90_60.jpg,005mF_90_60.jpg,005mW_90_60.jpg,bottom,1,Sad,1257.84897804
+sample,vertical,Sad,002m,004m,002w,Angry,Happy,002mT_90_60.jpg,004mW_90_60.jpg,004mF_90_60.jpg,top,0,Angry,1330.17992973
